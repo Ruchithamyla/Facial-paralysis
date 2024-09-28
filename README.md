@@ -1,1 +1,2 @@
 # Facial-paralysis
+I had done a project on facial paralysis severity detection.The main objective is to developed a deep learning model which shows the accuratly shows the severity of facial paralysis.The tools and technologies that are used python,tensorflow,Transfer learning.By implementing the deep learning model INCEPTION V3,detected the severity of facial paralysis.The accuracy that I achieved of 92% in detecting the severity of facial paralysis
